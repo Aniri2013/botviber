@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f0b3b9d-0c7e-4cb3-8f46-792dc3bb885e" name="car" url="http://zhecky.net">
+        <fileTransfer host="zhecky.net" port="2921" rootFolder="/web/vibercarservice.kurusa.zhecky.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2921" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
